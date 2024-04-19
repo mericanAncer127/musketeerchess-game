@@ -1,0 +1,15 @@
+[Event "Example Game"]
+[Site "?"]
+[Date "2024.04.18"]
+[Round "?"]
+[White "PlayerW"]
+[Black "PlayerB"]
+[Result "*"]
+[MusketeerBlack "e"]
+[MusketeerWhite "u"]
+[MusketeerPosWW "b"]
+[MusketeerPosWB "g"]
+[MusketeerPosBW "c"]
+[MusketeerPosBB "e"]
+
+1. c4 d5 2. Na3 Bg4 3. d3 dxc4 4. Nh3 Bxh3 5. gxh3 e5 6. Qb3 Kd7 7. Nxc4 *
